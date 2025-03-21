@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z4d9iz99k-go-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/z4d9iz99k-go
